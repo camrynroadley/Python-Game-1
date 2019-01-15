@@ -1,0 +1,4 @@
+title_credits_music,title_credits_music.mp3,0
+game_music,game_music.mp3,0
+good_sound,good_sound.ogg,0
+bad_sound,bad_sound.ogg,0
